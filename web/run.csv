@@ -1,0 +1,361 @@
+sec,floor,apt,step
+0,0,0,Vinçte taşıyıcı iskelet
+3,0,1,Vinçte taşıyıcı iskelet
+6,0,2,Vinçte taşıyıcı iskelet
+9,0,3,Vinçte taşıyıcı iskelet
+12,0,0,Vinçte dış duvar
+15,0,1,Vinçte dış duvar
+18,0,2,Vinçte dış duvar
+21,0,3,Vinçte dış duvar
+24,0,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+24,0,3,Elektrik-su hattı döşeme
+24,0,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+24,0,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+24,0,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+24,1,0,Vinçte taşıyıcı iskelet
+26,0,3,Sıva
+26,0,0,Elektrik-su hattı döşeme
+27,1,1,Vinçte taşıyıcı iskelet
+27,0,3,Boya
+28,0,0,Sıva
+28,0,1,Elektrik-su hattı döşeme
+28,0,3,Asansörde Fayans ve parkeler döşeme
+30,0,0,Boya
+30,0,1,Sıva
+30,1,2,Vinçte taşıyıcı iskelet
+30,0,2,Elektrik-su hattı döşeme
+30,0,3,Asansörde Mobilya taşıma
+31,0,0,Asansörde Fayans ve parkeler döşeme
+31,0,1,Boya
+32,0,2,Sıva
+32,0,3,Final kontrol
+32,0,1,Asansörde Fayans ve parkeler döşeme
+33,1,3,Vinçte taşıyıcı iskelet
+33,0,2,Boya
+33,0,0,Asansörde Mobilya taşıma
+34,0,0,Final kontrol
+34,0,1,Asansörde Mobilya taşıma
+35,0,2,Asansörde Fayans ve parkeler döşeme
+35,0,1,Final kontrol
+36,1,0,Vinçte dış duvar
+37,0,2,Asansörde Mobilya taşıma
+38,0,2,Final kontrol
+39,1,1,Vinçte dış duvar
+42,1,2,Vinçte dış duvar
+45,1,3,Vinçte dış duvar
+48,1,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+48,1,3,Elektrik-su hattı döşeme
+48,1,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+48,1,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+48,1,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+48,2,0,Vinçte taşıyıcı iskelet
+50,1,3,Sıva
+50,1,0,Elektrik-su hattı döşeme
+51,2,1,Vinçte taşıyıcı iskelet
+52,1,3,Boya
+52,1,0,Sıva
+52,1,1,Elektrik-su hattı döşeme
+54,2,2,Vinçte taşıyıcı iskelet
+54,1,0,Boya
+54,1,1,Sıva
+54,1,2,Elektrik-su hattı döşeme
+55,1,3,Asansörde Fayans ve parkeler döşeme
+56,1,2,Sıva
+57,1,0,Asansörde Fayans ve parkeler döşeme
+57,2,3,Vinçte taşıyıcı iskelet
+57,1,1,Boya
+57,1,3,Asansörde Mobilya taşıma
+57,1,2,Boya
+58,1,1,Asansörde Fayans ve parkeler döşeme
+58,1,3,Final kontrol
+59,1,0,Asansörde Mobilya taşıma
+60,1,1,Asansörde Mobilya taşıma
+60,1,2,Asansörde Fayans ve parkeler döşeme
+60,2,0,Vinçte dış duvar
+60,1,0,Final kontrol
+61,1,1,Final kontrol
+62,1,2,Asansörde Mobilya taşıma
+63,2,1,Vinçte dış duvar
+63,1,2,Final kontrol
+66,2,2,Vinçte dış duvar
+69,2,3,Vinçte dış duvar
+72,2,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+72,2,3,Elektrik-su hattı döşeme
+72,2,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+72,2,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+72,2,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+72,3,0,Vinçte taşıyıcı iskelet
+74,2,3,Sıva
+74,2,0,Elektrik-su hattı döşeme
+75,3,1,Vinçte taşıyıcı iskelet
+75,2,3,Boya
+76,2,0,Sıva
+76,2,1,Elektrik-su hattı döşeme
+77,2,0,Boya
+78,2,3,Asansörde Fayans ve parkeler döşeme
+78,3,2,Vinçte taşıyıcı iskelet
+78,2,2,Elektrik-su hattı döşeme
+78,2,1,Sıva
+79,2,0,Asansörde Fayans ve parkeler döşeme
+80,2,2,Sıva
+80,2,3,Asansörde Mobilya taşıma
+81,2,1,Boya
+81,3,3,Vinçte taşıyıcı iskelet
+81,2,0,Asansörde Mobilya taşıma
+81,2,3,Final kontrol
+82,2,0,Final kontrol
+83,2,2,Boya
+84,2,1,Asansörde Fayans ve parkeler döşeme
+84,3,0,Vinçte dış duvar
+86,2,1,Asansörde Mobilya taşıma
+86,2,2,Asansörde Fayans ve parkeler döşeme
+87,3,1,Vinçte dış duvar
+87,2,1,Final kontrol
+88,2,2,Asansörde Mobilya taşıma
+89,2,2,Final kontrol
+90,3,2,Vinçte dış duvar
+93,3,3,Vinçte dış duvar
+96,3,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+96,3,3,Elektrik-su hattı döşeme
+96,3,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+96,3,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+96,3,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+96,4,0,Vinçte taşıyıcı iskelet
+98,3,3,Sıva
+98,3,0,Elektrik-su hattı döşeme
+99,4,1,Vinçte taşıyıcı iskelet
+100,3,3,Boya
+100,3,0,Sıva
+100,3,1,Elektrik-su hattı döşeme
+102,4,2,Vinçte taşıyıcı iskelet
+102,3,0,Boya
+102,3,1,Sıva
+102,3,2,Elektrik-su hattı döşeme
+102,3,3,Asansörde Fayans ve parkeler döşeme
+103,3,0,Asansörde Fayans ve parkeler döşeme
+104,3,3,Asansörde Mobilya taşıma
+104,3,2,Sıva
+105,3,1,Boya
+105,4,3,Vinçte taşıyıcı iskelet
+105,3,0,Asansörde Mobilya taşıma
+105,3,3,Final kontrol
+106,3,2,Boya
+106,3,0,Final kontrol
+107,3,1,Asansörde Fayans ve parkeler döşeme
+108,4,0,Vinçte dış duvar
+108,3,2,Asansörde Fayans ve parkeler döşeme
+109,3,1,Asansörde Mobilya taşıma
+110,3,1,Final kontrol
+110,3,2,Asansörde Mobilya taşıma
+111,4,1,Vinçte dış duvar
+111,3,2,Final kontrol
+114,4,2,Vinçte dış duvar
+117,4,3,Vinçte dış duvar
+120,4,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+120,4,3,Elektrik-su hattı döşeme
+120,4,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+120,4,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+120,4,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+120,5,0,Vinçte taşıyıcı iskelet
+122,4,3,Sıva
+122,4,1,Elektrik-su hattı döşeme
+123,5,1,Vinçte taşıyıcı iskelet
+123,4,3,Boya
+124,4,1,Sıva
+124,4,0,Elektrik-su hattı döşeme
+125,4,1,Boya
+126,5,2,Vinçte taşıyıcı iskelet
+126,4,3,Asansörde Fayans ve parkeler döşeme
+126,4,0,Sıva
+126,4,2,Elektrik-su hattı döşeme
+127,4,1,Asansörde Fayans ve parkeler döşeme
+128,4,3,Asansörde Mobilya taşıma
+128,4,2,Sıva
+129,5,3,Vinçte taşıyıcı iskelet
+129,4,3,Final kontrol
+129,4,0,Boya
+129,4,1,Asansörde Mobilya taşıma
+130,4,1,Final kontrol
+131,4,2,Boya
+131,4,0,Asansörde Fayans ve parkeler döşeme
+132,5,0,Vinçte dış duvar
+133,4,0,Asansörde Mobilya taşıma
+134,4,2,Asansörde Fayans ve parkeler döşeme
+134,4,0,Final kontrol
+135,5,1,Vinçte dış duvar
+136,4,2,Asansörde Mobilya taşıma
+137,4,2,Final kontrol
+138,5,2,Vinçte dış duvar
+141,5,3,Vinçte dış duvar
+144,5,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+144,5,3,Elektrik-su hattı döşeme
+144,5,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+144,5,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+144,5,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+144,6,0,Vinçte taşıyıcı iskelet
+146,5,3,Sıva
+146,5,1,Elektrik-su hattı döşeme
+147,6,1,Vinçte taşıyıcı iskelet
+148,5,3,Boya
+148,5,1,Sıva
+148,5,0,Elektrik-su hattı döşeme
+150,6,2,Vinçte taşıyıcı iskelet
+150,5,3,Asansörde Fayans ve parkeler döşeme
+150,5,1,Boya
+150,5,0,Sıva
+150,5,2,Elektrik-su hattı döşeme
+151,5,1,Asansörde Fayans ve parkeler döşeme
+152,5,3,Asansörde Mobilya taşıma
+152,5,2,Sıva
+153,5,0,Boya
+153,6,3,Vinçte taşıyıcı iskelet
+153,5,1,Asansörde Mobilya taşıma
+153,5,3,Final kontrol
+154,5,0,Asansörde Fayans ve parkeler döşeme
+154,5,2,Boya
+154,5,1,Final kontrol
+156,6,0,Vinçte dış duvar
+156,5,0,Asansörde Mobilya taşıma
+156,5,2,Asansörde Fayans ve parkeler döşeme
+157,5,0,Final kontrol
+158,5,2,Asansörde Mobilya taşıma
+159,6,1,Vinçte dış duvar
+159,5,2,Final kontrol
+162,6,2,Vinçte dış duvar
+165,6,3,Vinçte dış duvar
+168,6,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+168,6,1,Elektrik-su hattı döşeme
+168,6,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+168,6,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+168,6,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+168,7,0,Vinçte taşıyıcı iskelet
+170,6,1,Sıva
+170,6,0,Elektrik-su hattı döşeme
+171,7,1,Vinçte taşıyıcı iskelet
+172,6,0,Sıva
+172,6,3,Elektrik-su hattı döşeme
+173,6,1,Boya
+173,6,0,Boya
+174,7,2,Vinçte taşıyıcı iskelet
+174,6,3,Sıva
+174,6,1,Asansörde Fayans ve parkeler döşeme
+174,6,2,Elektrik-su hattı döşeme
+176,6,1,Asansörde Mobilya taşıma
+176,6,2,Sıva
+176,6,0,Asansörde Fayans ve parkeler döşeme
+177,6,3,Boya
+177,7,3,Vinçte taşıyıcı iskelet
+177,6,1,Final kontrol
+177,6,2,Boya
+178,6,0,Asansörde Mobilya taşıma
+178,6,2,Asansörde Fayans ve parkeler döşeme
+179,6,0,Final kontrol
+180,6,3,Asansörde Fayans ve parkeler döşeme
+180,7,0,Vinçte dış duvar
+180,6,2,Asansörde Mobilya taşıma
+181,6,2,Final kontrol
+182,6,3,Asansörde Mobilya taşıma
+183,7,1,Vinçte dış duvar
+183,6,3,Final kontrol
+186,7,2,Vinçte dış duvar
+189,7,3,Vinçte dış duvar
+192,7,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+192,7,3,Elektrik-su hattı döşeme
+192,7,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+192,7,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+192,7,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+192,8,0,Vinçte taşıyıcı iskelet
+194,7,3,Sıva
+194,7,0,Elektrik-su hattı döşeme
+195,8,1,Vinçte taşıyıcı iskelet
+196,7,3,Boya
+196,7,1,Elektrik-su hattı döşeme
+196,7,0,Sıva
+198,7,3,Asansörde Fayans ve parkeler döşeme
+198,7,1,Sıva
+198,7,0,Boya
+198,7,2,Elektrik-su hattı döşeme
+198,8,2,Vinçte taşıyıcı iskelet
+200,7,1,Boya
+200,7,2,Sıva
+200,7,0,Asansörde Fayans ve parkeler döşeme
+200,7,3,Asansörde Mobilya taşıma
+201,8,3,Vinçte taşıyıcı iskelet
+201,7,3,Final kontrol
+202,7,0,Asansörde Mobilya taşıma
+203,7,2,Boya
+203,7,1,Asansörde Fayans ve parkeler döşeme
+203,7,0,Final kontrol
+204,8,0,Vinçte dış duvar
+205,7,1,Asansörde Mobilya taşıma
+206,7,2,Asansörde Fayans ve parkeler döşeme
+206,7,1,Final kontrol
+207,8,1,Vinçte dış duvar
+208,7,2,Asansörde Mobilya taşıma
+209,7,2,Final kontrol
+210,8,2,Vinçte dış duvar
+213,8,3,Vinçte dış duvar
+216,8,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+216,8,3,Elektrik-su hattı döşeme
+216,8,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+216,8,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+216,8,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+216,9,0,Vinçte taşıyıcı iskelet
+218,8,3,Sıva
+218,8,0,Elektrik-su hattı döşeme
+219,9,1,Vinçte taşıyıcı iskelet
+220,8,0,Sıva
+220,8,1,Elektrik-su hattı döşeme
+221,8,3,Boya
+221,8,0,Boya
+222,9,2,Vinçte taşıyıcı iskelet
+222,8,1,Sıva
+222,8,0,Asansörde Fayans ve parkeler döşeme
+222,8,2,Elektrik-su hattı döşeme
+224,8,3,Asansörde Fayans ve parkeler döşeme
+224,8,2,Sıva
+224,8,0,Asansörde Mobilya taşıma
+225,9,3,Vinçte taşıyıcı iskelet
+225,8,1,Boya
+225,8,0,Final kontrol
+226,8,2,Boya
+226,8,3,Asansörde Mobilya taşıma
+227,8,1,Asansörde Fayans ve parkeler döşeme
+227,8,3,Final kontrol
+228,9,0,Vinçte dış duvar
+229,8,2,Asansörde Fayans ve parkeler döşeme
+229,8,1,Asansörde Mobilya taşıma
+230,8,1,Final kontrol
+231,8,2,Asansörde Mobilya taşıma
+231,9,1,Vinçte dış duvar
+232,8,2,Final kontrol
+234,9,2,Vinçte dış duvar
+237,9,3,Vinçte dış duvar
+240,9,3,"Dış-iskelet tamam, iç dekora geçiliyor"
+240,9,3,Elektrik-su hattı döşeme
+240,9,0,"Dış-iskelet tamam, iç dekora geçiliyor"
+240,9,1,"Dış-iskelet tamam, iç dekora geçiliyor"
+240,9,2,"Dış-iskelet tamam, iç dekora geçiliyor"
+242,9,3,Sıva
+242,9,0,Elektrik-su hattı döşeme
+243,9,3,Boya
+244,9,0,Sıva
+244,9,1,Elektrik-su hattı döşeme
+246,9,3,Asansörde Fayans ve parkeler döşeme
+246,9,0,Boya
+246,9,1,Sıva
+246,9,2,Elektrik-su hattı döşeme
+248,9,2,Sıva
+248,9,3,Asansörde Mobilya taşıma
+249,9,2,Boya
+249,9,0,Asansörde Fayans ve parkeler döşeme
+249,9,1,Boya
+249,9,3,Final kontrol
+251,9,2,Asansörde Fayans ve parkeler döşeme
+251,9,0,Asansörde Mobilya taşıma
+251,9,1,Asansörde Fayans ve parkeler döşeme
+252,9,0,Final kontrol
+253,9,2,Asansörde Mobilya taşıma
+253,9,1,Asansörde Mobilya taşıma
+254,9,2,Final kontrol
+255,9,1,Final kontrol

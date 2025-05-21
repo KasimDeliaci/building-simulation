@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<title>Apartman Sim Viewer v4</title>
+<style>
+html,body{margin:0;height:100%;display:flex;background:#111;color:#eee;font-family:sans-serif}
+
+/* Sol bina alanı */
+#left{flex:1;position:relative}
+#left canvas{width:100%;height:100%;display:block}
+
+/* Sağ – 2×2 grid */
+#right{flex:1;display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}
+.slot{position:relative}
+.slot canvas{width:100%;height:100%;display:block}
+.note{position:absolute;bottom:6px;left:50%;transform:translateX(-50%);
+      font-size:14px;text-align:center;pointer-events:none}
+
+/* Ortak küçük öğeler */
+#legend{position:absolute;top:8px;left:8px;font-size:13px}
+.sw{display:inline-block;width:14px;height:14px;margin-right:4px}
+
+/* Alt durum satırı */
+#info{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);
+      font-size:15px;text-align:center}
+</style>
+</head>
+<body>
+  <!-- Sol: bina -->
+  <div id="left">
+    <canvas id="cLeft"></canvas>
+    <div id="legend">
+      <div><span class="sw" style="background:#666"></span>Beklemede</div>
+      <div><span class="sw" style="background:#1e90ff"></span>Çalışıyor</div>
+      <div><span class="sw" style="background:#00cc66"></span>Tamamlandı</div>
+    </div>
+  </div>
+
+  <!-- Sağ: dört bağımsız sahne -->
+  <div id="right">
+    <div class="slot"><canvas></canvas><div class="note"></div></div>
+    <div class="slot"><canvas></canvas><div class="note"></div></div>
+    <div class="slot"><canvas></canvas><div class="note"></div></div>
+    <div class="slot"><canvas></canvas><div class="note"></div></div>
+  </div>
+
+  <!-- Vinç / Asansör bilgi satırı -->
+  <div id="info"></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

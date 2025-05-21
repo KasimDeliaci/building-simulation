@@ -1,0 +1,7 @@
+# Build artefacts
+build/
+*.o
+*.log
+# VSCode / macOS rahatlıkları
+.vscode/
+.DS_Store
